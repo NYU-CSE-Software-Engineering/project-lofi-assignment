@@ -26,7 +26,7 @@ The class will be divided into paired teams. You will have two **30-minute block
 
 ### **Phase 2: The Offline Deliverables**
 
-Working as a team, you will translate your interview notes into a visual design. **All lo-fidelity diagrams must be hand-drawn** to focus on logic and structure rather than digital aesthetics.
+Working as a team, you will translate your interview notes into a visual design. **All low-fidelity diagrams must be hand-drawn** to focus on logic and structure rather than digital aesthetics.
 
 #### **Requirement 1: Low-Fidelity Wireframes**
 
