@@ -40,6 +40,7 @@ Map out the "Happy Path" of the primary user goal (e.g., from landing page to su
 * **Resources:** Since flowcharting is a fading art, please review these guides before drawing:  
   * [Lucidchart’s Guide to Flowchart Symbols](https://www.lucidchart.com/pages/flowchart-symbols-meaning-and-tutorial)  
   * [Visual Paradigm: Flowchart Tutorial](https://www.visual-paradigm.com/guide/flowchart/what-is-flowchart/)
+* **Contributions:** A single page that details what each member of the team contributed to for this assignment. Can be a plain text listing.
 
 ---
 
@@ -48,16 +49,17 @@ Map out the "Happy Path" of the primary user goal (e.g., from landing page to su
 You will submit your work via **Brightspace**. Accuracy and legibility are key.
 
 1. **Scanning:** Use a mobile scanning app (e.g., Adobe Scan, Microsoft Lens, or the Notes app on iOS) or a printer/scanner to capture your hand-drawn work.  
-2. **Formatting:** Compile all sketches into **one single PDF file**.  
-   * *Page 1-3:* The Wireframes.  
-   * *Page 4+:* The Flowchart (ensure it is captured as a clear, sequential series of images).  
+2. **Formatting:** Compile all sketches, digrams, and contribution page into **one single PDF file**.  
+   * *Page 1 to X:* The Wireframes.  
+   * *Page $X+1$ to $Y$:* The Flowchart (ensure it is captured as a clear, sequential series of images).
+   * *Page $Y+1$:* The team contributions listing.
 3. **Brightspace Upload:** Submit the PDF to the appropriate assignment in Brightspace. One team member can do this, and it will be submitted for the entire team.
-4. **GitHub Repo Upload:** Add the PDF to the `docs/lofi` directory in your team's repo on GitHub. One individual can do this. A branch, pull request (PR), and code review (CR) are required. The uploader should make the branch, and create the PR, and another member of the team *must* perform a code review and approve the PR. (The code reviewer should carefully ensure all images are present in the single PDF upload.) The uploader must be the person to merge the PR into the `main` branch of the repo (assuming that's the name.
+4. **GitHub Repo Upload:** Add the PDF to the `docs/lofi` directory in your team's repo on GitHub. One individual can do this. A branch, pull request (PR), and code review (CR) are required. The uploader should create the branch and open the PR, and another member of the team *must* perform a code review and approve the PR. (The code reviewer should carefully ensure all images are present in the single PDF upload.) The uploader must be the person to merge the PR into the `main` branch of the repo (assuming that's the name.
 
 ---
 
 ### **Assessment Criteria**
 
 * **Translational Accuracy:** Do the diagrams reflect the requirements discussed in the 30-minute session?  
-* **Flowchart Logic:** Does the flowchart account for basic user decisions (e.g., "Is the user authenticated?"), or is it just a straight line?  
+* **Flowchart Logic:** Does the flowchart account for basic user decisions (e.g., "Is the user authenticated, or is it just a straight line?")
 * **Legibility:** Can a third party (the "Customer") understand the layout and logic without your verbal explanation?
