@@ -1,0 +1,10 @@
+## Grading Rubric
+
+| **Category** | **Excellent (90-100%)** | **Satisfactory (70-89%)** | **Needs Improvement (<70%)** | **Score** |
+| -------- | ------------------- | --------------------- | ------------------------ | ----- | 
+| **Lo-Fi Prototype Quality** | Prototype covers all core functional requirements. UI elements are clear, and the "low-fidelity" nature is maintained (focus on layout/UX over art). | Prototype covers most functions but misses 1-2 secondary features. The layout is somewhat cluttered or confusing. | Prototype is incomplete, missing core screens, or is too high-fidelity (distracting from the UX). | __/30 |
+| **System Flowchart** | Flowchart is logically sound, uses standard symbols (start/end, process, decision), and maps the entire user journey clearly.       | Flowchart is present and mostly logical, but are missing key edge cases or uses non-standard notation. | Flowchart is missing, unreadable, or does not reflect the actual prototype's logic. | __/20 |
+| **Team Contributions Page** | A dedicated page/section clearly lists every member and provides a detailed breakdown of their specific tasks and artifacts. | Contribution page is present, but descriptions are vague (e.g., "_did the flowchart_") without detail. | Contribution page is missing or does not account for all registered team members. | __/10 |
+| **Deliverable Format** | All deliverables are submitted as a single PDF file. Images / flowcharts are embedded correctly and are high-resolution scans of hand-drawn images.   | Submitted PDF is missing pages or sections of the assignment. | Submitted file is missing, wrong format, or otherwise significantly problematic | __/10 |
+| **Github Submission & Location** | Project is submitted via a Pull Request to the `main` branch of the team repository. All files are in the correct directory (`docs/lofi`) as specified. | Submitted to the correct repo, but in the wrong branch, or directory naming/nesting is slightly off. | Submitted via email, a private repo, or a completely incorrect GitHub location. | __/5 |
+| **Total** | | | | __ /75 |
