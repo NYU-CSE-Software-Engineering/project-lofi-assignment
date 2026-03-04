@@ -12,14 +12,14 @@ This assignment simulates the **Discovery Phase**. You will practice active list
 
 The class will be divided into paired teams. You will have two **30-minute blocks** to conduct your interviews.
 
-* **Block 1 (30 Mins):** Team A (Customer) pitches to Team B (Developer).  
+* **Block 1 (35 Mins):** Team A (Customer) pitches to Team B (Developer).
 * **Transition (5 Mins):** Quick stretch and role swap.  
-* **Block 2 (30 Mins):** Team B (Customer) pitches to Team A (Developer).
+* **Block 2 (35 Mins):** Team B (Customer) pitches to Team A (Developer).
 
 #### **The Interview Breakdown:**
 
-* **The Pitch (10 Minutes):** Customers present their project proposal. Focus on the user's pain points and the core "Must-Have" features.  
-* **The Deep Dive (20 Minutes):** Developers lead this portion. Interrogate the requirements. Ask about edge cases, user flow, and data constraints.  
+* **The Pitch (10 Minutes):** Customers present their project proposal. Focus on the user's pain points and the core "Must-Have" features. This should likely include an overview of Section 2.0 of the team's project specification. After the meeting, the customer group should likely make their project proposal available to the developer group (save as a PDF and email to the point of contact!)
+* **The Deep Dive (35 Minutes):** Developers lead this portion. Interrogate the requirements. Ask about edge cases, user flow, and data constraints.  
   * *Note:* Take exhaustive notes; these are your only resources for the offline design phase.
 
 ---
@@ -38,7 +38,7 @@ Map out the "Happy Path" of the primary user goal (e.g., from landing page to su
 
 * **Format:** This must be a separate, logical sequence of steps using standard symbols (Ovals for Start/End, Rectangles for Processes, Diamonds for Decisions). You are permitted to use a drawing or diagramming tool for these images.
 * **Resources:** Since flowcharting is a fading art, please review these guides before drawing:  
-  * [Lucidchart’s Guide to Flowchart Symbols](https://www.lucidchart.com/pages/flowchart-symbols-meaning-and-tutorial)  
+  * [Lucidchart’s Guide to Flowchart Symbols](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)  
   * [Visual Paradigm: Flowchart Tutorial](https://www.visual-paradigm.com/guide/flowchart/what-is-flowchart/)
 * **Contributions:** A single page that details what each member of the team contributed to for this assignment. Can be a plain text listing.
 
@@ -54,7 +54,7 @@ You will submit your work via **Brightspace**. Accuracy and legibility are key.
    * *Pages X+1 to Y:* The Flowchart (ensure it is captured as a clear, sequential series of images).
    * *Page Y+1:* The team contributions listing.
 3. **Brightspace Upload:** Submit the PDF to the appropriate assignment in Brightspace. One team member can do this, and it will be submitted for the entire team.
-4. **GitHub Repo Upload:** Add the PDF to the `docs/lofi` directory in your team's repo on GitHub. One individual can do this. A branch, pull request (PR), and code review (CR) are required. The uploader should create the branch and open the PR, and another member of the team *must* perform a code review and approve the PR. (The code reviewer should carefully ensure all images are present in the single PDF upload.) The uploader must be the person to merge the PR into the `main` branch of the repo (assuming that's the name.
+4. **GitHub Repo Upload:** Add the PDF to the `docs/lofi` directory in your team's repo on GitHub. One individual can do this. A branch, pull request (PR), and code review (CR) are required. The uploader should create the branch and open the PR, and another member of the team *must* perform a code review and approve the PR. (The code reviewer should carefully ensure all images are present in the single PDF upload.) The uploader must be the person to merge the PR into the `main` branch of the repo (assuming that's the name).
 
 ---
 
