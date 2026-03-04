@@ -63,7 +63,7 @@ You will submit your work via **Brightspace**. Accuracy and legibility are key.
 * **Translational Accuracy:** Do the diagrams reflect the requirements discussed in the 30-minute session?  
 * **Flowchart Logic:** Does the flowchart account for basic user decisions (e.g., "Is the user authenticated, or is it just a straight line?")
 * **Legibility:** Can a third party (the "Customer") understand the layout and logic without your verbal explanation?
-* 
+
 ---
 
 ### Grading Rubric
