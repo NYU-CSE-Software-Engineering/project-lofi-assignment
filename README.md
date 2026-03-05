@@ -12,14 +12,14 @@ This assignment simulates the **Discovery Phase**. You will practice active list
 
 The class will be divided into paired teams. You will have two **30-minute blocks** to conduct your interviews.
 
-* **Block 1 (35 Mins):** Team A (Customer) pitches to Team B (Developer).
-* **Transition (5 Mins):** Quick stretch and role swap.  
-* **Block 2 (35 Mins):** Team B (Customer) pitches to Team A (Developer).
+* **Block 1 (30 Mins):** Team A (Customer) pitches to Team B (Developer).
+* **Transition (1 Mins):** Quick stretch and role swap.  
+* **Block 2 (30 Mins):** Team B (Customer) pitches to Team A (Developer).
 
 #### **The Interview Breakdown:**
 
-* **The Pitch (10 Minutes):** Customers present their project proposal. Focus on the user's pain points and the core "Must-Have" features. This should likely include an overview of Section 2.0 of the team's project specification. After the meeting, the customer group should likely make their project proposal available to the developer group (save as a PDF and email to the point of contact!)
-* **The Deep Dive (35 Minutes):** Developers lead this portion. Interrogate the requirements. Ask about edge cases, user flow, and data constraints.  
+* **The Pitch (5 Minutes):** Customers present their project proposal. Focus on the user's pain points and the core "Must-Have" features. This should likely include an overview of Section 2.0 of the team's project specification. After the meeting, the customer group should likely make their project proposal available to the developer group (save as a PDF and email to the point of contact!)
+* **The Deep Dive (25 Minutes):** Developers lead this portion. Interrogate the requirements. Ask about edge cases, user flow, and data constraints.  
   * *Note:* Take exhaustive notes; these are your only resources for the offline design phase.
 
 ---
