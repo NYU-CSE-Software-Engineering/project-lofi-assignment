@@ -34,12 +34,11 @@ Sketch the **three most critical screens** of the application. Focus on UI place
 
 #### **Requirement 2: System Flowchart**
 
-Map out the "Happy Path" of the primary user goal (e.g., from landing page to successful data submission).
-
-* **Format:** This must be a separate, logical sequence of steps using standard symbols (Ovals for Start/End, Rectangles for Processes, Diamonds for Decisions). You are permitted to use a drawing or diagramming tool for these images.
+**Each** team member should map out a ["Happy Path"](https://en.wikipedia.org/wiki/Happy_path) (section 7.6 of the text also mentions happy paths) of the primary user goal (e.g., from landing page to successful data submission).
+* **Format:** This must be a separate, logical sequence of steps using standard symbols (Ovals for Start/End, Rectangles for Processes, Diamonds for Decisions). You are permitted/encouraged to use a drawing or diagramming tool for these images.
 * **Resources:** Since flowcharting is a fading art, please review these guides before drawing:  
   * [Lucidchart’s Guide to Flowchart Symbols](https://www.lucidchart.com/pages/flowchart-symbols-meaning-explained)  
-  * [Visual Paradigm: Flowchart Tutorial](https://www.visual-paradigm.com/guide/flowchart/what-is-flowchart/)
+  * [Visual Paradigm: Flowchart Tutorial](https://www.visual-paradigm.com/tutorials/flowchart-tutorial/)
 * **Contributions:** A single page that details what each member of the team contributed to for this assignment. Can be a plain text listing.
 
 ---
