@@ -67,4 +67,4 @@ You will submit your work via **Brightspace**. Accuracy and legibility are key.
 
 ### Grading Rubric
 
-The grading rubric is [available as a separate file](rubric.md) in this repository.
+The grading rubric is [available as a separate file](graduate-rubric.md) in this repository.
