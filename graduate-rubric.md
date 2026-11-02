@@ -1,4 +1,4 @@
-## Grading Rubric
+## Graduate Grading Rubric
 
 | **Category** | **Excellent (90-100%)** | **Satisfactory (70-89%)** | **Needs Improvement (<70%)** | **Score** |
 |---|---|---|---|---|
