@@ -62,4 +62,4 @@ You will submit your work via **Brightspace**. Accuracy and legibility are key.
 
 ### Grading Rubric
 
-The grading rubric is [available as a separate file](https://github.com/NYU-CSE-Software-Engineering/project-lofi-assignment/blob/main/rubric.md) in this repository.
+The grading rubric is [available as a separate file](undergraduate-rubric.md) in this repository.
